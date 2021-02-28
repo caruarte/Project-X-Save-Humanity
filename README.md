@@ -7,6 +7,9 @@ This project is a game I created with Lua programming language and the LÖVE 2D 
 #### **How I came up with the idea**
 When I finished the games track, I wanted to make a game similar to the mario one shown in the track. I've always liked the sci-fi genre in retro games like *Space Invaders* so that's why I liked the idea of the game being located at a moon full of aliens, and the player being a NASA astronaut who has to "save the Earth".
 
+#### **Download**
+You can play the game (if you are using Windows) by downloading the *WIN-projectXSaveHumanity-1.0.zip* folder, unzipping it, and executing the *.exe* file inside the folder to run the game.
+
 #### ***fonts* folder**
 In the *fonts* folder there are 2 fonts obtained from [DaFont](https://www.dafont.com/), which are used to write the scores (levels and kills) during the whole game, and to write the "*Press ENTER to start*" text in both the main menu and the game over screen.
 
